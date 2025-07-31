@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411942216932",
+    "project_id": "travelers-83ef6",
+    "storage_bucket": "travelers-83ef6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411942216932:android:8beba5bb89a36785f7b8f1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHXtdCn0eFSQoogFOdgMr3fQz4LbyB6CM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
